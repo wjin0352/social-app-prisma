@@ -15,11 +15,13 @@
     "bcrypt": "^5.1.1",
     "next": "15.2.2",
     "postcss": "^8.5.3",
+    "prisma": "^6.5.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@prisma/engines": "^6.5.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
